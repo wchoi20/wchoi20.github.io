@@ -9,7 +9,7 @@ profile:
   image: IMG_7723.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>email: wchoi20 at jhu.edu</p>
+    <p>wchoi20 at jhu dot edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
