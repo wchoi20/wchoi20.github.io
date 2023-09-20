@@ -19,4 +19,4 @@ social: true  # includes social icons at the bottom of the page
 
 I am a senior at Johns Hopkins University, studying Computer Science and Cognitive Science with Linguistics focus.
 
-This personal academic website is currently under construction!
+This website is currently under construction!
