@@ -1,1 +1,1 @@
-Personal Website, using al-folio
+WooJin's Personal Academic Website, using al-folio.
