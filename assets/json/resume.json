@@ -9,7 +9,7 @@
     "summary": "",
     "location": {
       "address": "",
-      "postalCode": "",
+      "postalCode": "21218",
       "city": "Baltimore",
       "countryCode": "US",
       "region": "Maryland"
@@ -34,7 +34,7 @@
       "endDate": "2024-05",
       "score": "",
       "courses": [
-        "Natural Language Processing, Syntax, Semantics, Phonology"
+        "Syntax, Semantics, Phonology, Natural Language Processing"
       ]
     }
   ],
