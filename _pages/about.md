@@ -6,7 +6,7 @@ subtitle: Undergraduate at Johns Hopkins University
 
 profile:
   align: right
-  image: IMG_7723.jpeg
+  image: IMG_2518.JPG
   image_circular: false # crops the image to make it circular
   address: >
     <p>wchoi20 at jhu dot edu</p>
