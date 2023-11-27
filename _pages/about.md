@@ -19,4 +19,6 @@ social: true  # includes social icons at the bottom of the page
 
 I am a senior at Hopkins studying Computer Science and Cognitive Science with Linguistics focus. 
 
-My research interests are in semantics and pragmatics, syntax, and natural language processing.
+My research interests are in semantics, its interface with syntax and pragmatics, and computational linguistics.
+
+Other than research, I enjoy watching and playing soccer, travelling, and cooking.
