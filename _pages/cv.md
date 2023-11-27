@@ -4,6 +4,6 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 2
-cv_pdf: WooJin Choi - Resume.pdf
+cv_pdf: cv.pdf
 description:
 ---
