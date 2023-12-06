@@ -17,8 +17,8 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a senior at Hopkins studying Computer Science and Cognitive Science with Linguistics focus. 
+I am a senior at Hopkins studying Computer Science and Cognitive Science with a Linguistics focus. 
 
 My research interests are in semantics, its interface with syntax and pragmatics, and computational linguistics.
 
-Other than research, I enjoy watching and playing soccer, travelling, and cooking.
+Other than research, I enjoy watching and playing soccer, traveling, and cooking.
