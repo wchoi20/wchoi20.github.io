@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD Student at University of Rochester
+subtitle: PhD Student at the University of Rochester
 
 profile:
   align: right
