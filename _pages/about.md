@@ -9,7 +9,7 @@ profile:
   image: IMG_2518.JPG
   image_circular: false # crops the image to make it circular
   address: >
-    <p>wchoi18@ur.rochester.edu</p>
+    <p>wchoi18[AT]ur.rochester.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
