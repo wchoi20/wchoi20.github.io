@@ -9,3 +9,17 @@ _site
 Gemfile.lock
 vendor
 
+# Gemini files
+.gemini
+.gemini-ignore
+
+# Docker files
+.dockerignore
+docker-compose.yml
+docker-local.yml
+Dockerfile
+bin/
+
+# Other
+reports/
+_site_temp/
