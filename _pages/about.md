@@ -6,7 +6,7 @@ subtitle: PhD Student at the University of Rochester
 
 profile:
   align: right
-  image: IMG_2518.JPG
+  image: profile.jpeg
   image_circular: false # crops the image to make it circular
   address: >
     <p>woojin[DOT]choi[AT]rochester.edu</p>
