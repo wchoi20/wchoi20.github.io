@@ -21,4 +21,4 @@ Hi! I am a PhD student in [Linguistics](https://www.sas.rochester.edu/lin/) at t
 
 Before that, I received a bachelor's degree in [Computer Science](https://www.cs.jhu.edu/) and [Cognitive Science](https://cogsci.jhu.edu/) from [Johns Hopkins University](https://www.jhu.edu/), where I was advised by [Kyle Rawlins](https://rawlins.io/) and [Benjamin Van Durme](https://www.cs.jhu.edu/~vandurme/). Upon graduation, I was selected as a [2024 Glushko Outstanding Undergraduate Cognitive Scientist](https://cogsci.jhu.edu/2024/05/14/2024-glushko-prize-winner-announced/).
 
-My research interests are in formal semantics and computational linguistics.
+My research interests include semantic theory and natural language understanding.
