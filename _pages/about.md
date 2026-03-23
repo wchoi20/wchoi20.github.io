@@ -9,7 +9,7 @@ profile:
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>woojin[DOT]choi[AT]rochester.edu</p>
+    <p>woojin.choi[AT]rochester.edu</p>
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
