@@ -121,6 +121,9 @@ blockquote {
     margin-bottom: 5px;
     margin-top: 5px;
     font-family: monospace;
+    font-size: 0.8rem;
+    text-align: center;
+    overflow-wrap: anywhere;
 
     p {
       display: inline-block;

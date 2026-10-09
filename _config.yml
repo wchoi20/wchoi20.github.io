@@ -120,8 +120,12 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Collections
 # -----------------------------------------------------------------------------
 
+collections:
+  news:
+    output: false # inline news items only; no standalone pages
+
 announcements:
-  enabled: false
+  enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
